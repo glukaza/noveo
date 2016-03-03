@@ -5,7 +5,7 @@
 0.0.1
 
 ### Data Source
-data store in condig/data.php file
+data store in config/data.php file
 
 ### Configure
 in config/config.php we can set:
